@@ -1,0 +1,10 @@
+# .gitignore
+# 깃으로 관리하지 않는 파일 지정
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Depnedency directories
+node_modules/
